@@ -1,9 +1,9 @@
 {
-  "name": "hubot",
+  "name": "taibot",
   "version": "0.0.0",
   "private": true,
-  "author": "Jae Lee <jae@dustral.com>",
-  "description": "A simple helpful robot for the Sekrit Club",
+  "author": "Sonny Shi <theli@outlook.com>",
+  "description": "Hubot integration for Tai's",
   "dependencies": {
     "hubot": "^2.9.3",
     "hubot-diagnostics": "0.0.1",
